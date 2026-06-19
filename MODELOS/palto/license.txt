@@ -1,0 +1,11 @@
+Model Information:
+* title:	Platos gemelos de estilo Inca
+* source:	https://sketchfab.com/3d-models/platos-gemelos-de-estilo-inca-d951220a40fa4b1c8b8deacde38805ec
+* author:	Ministerio de Cultura Perú (https://sketchfab.com/MinisteriodeCulturaPeru)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Platos gemelos de estilo Inca" (https://sketchfab.com/3d-models/platos-gemelos-de-estilo-inca-d951220a40fa4b1c8b8deacde38805ec) by Ministerio de Cultura Perú (https://sketchfab.com/MinisteriodeCulturaPeru) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

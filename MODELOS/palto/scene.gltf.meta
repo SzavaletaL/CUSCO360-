@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: fc032e48d7909b54da3c1d81646a4644
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\MODELOS\palto\scene.bin
+    assetPath: Assets\MODELOS\palto\scene.bin
+  - type: 1
+    originalUri: Assets\MODELOS\palto\textures\Scene_-_Root_emissive.jpeg
+    assetPath: Assets\MODELOS\palto\textures\Scene_-_Root_emissive.jpeg
+  reportItems: []
