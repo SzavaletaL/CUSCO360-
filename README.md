@@ -66,16 +66,3 @@ A continuación se detalla el proceso técnico seguido para la construcción de 
 ### Paso 6: Configuración del Fuego de Partículas y Simulador de Pagos
 1. Se añadió un objeto de **Sistema de Partículas (Particle System)** en el altar del corazón, configurando la forma en hemisferio con un radio de `0.1` y aplicando un gradiente de color (Rojo-Amarillo-Gris) con desvanecimiento de *Alpha* a lo largo del tiempo de vida.
 2. Se programó una simulación de pasarela de cobro bancario mediante una corrutina en C# que valida los 16 dígitos de una tarjeta ficticia, congela la pantalla 2.5 segundos emulando la comunicación de red, despliega un aviso de "Pago Exitoso" y desbloquea funciones premium en la interfaz.
-
----
-
-## 📁 Estructura del Repositorio
-```text
-├── Assets/
-│   ├── Modelos/          # Modelado 3D del Templo del Mono y texturas asociadas
-│   ├── Materials/        # Materiales URP (Cielo Skybox, Fuego, etc.)
-│   ├── Audio/            # Clips de audio (Ambiente natural y Audio Guías)
-│   ├── Scripts/          # Código fuente en C# (Controles, Hotspots, Pagos)
-│   └── Scenes/           # Escena principal de la experiencia turística
-├── ProjectSettings/      # Configuraciones del Input System y compilación de Android
-└── README.md             # Documentación general del proyecto
